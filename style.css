@@ -1,0 +1,53 @@
+body{
+    background-color: #D5E1EF;
+    height: 100vh;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+}
+
+.conteúdo{
+    background-color: white;
+    height: 497px;
+    width: 320px;
+    border-radius: 20px;
+    display: block;
+    box-shadow: 2px 2px 30px;
+}
+
+.qr{
+    display: flex;
+    padding-top: 18px;
+    justify-content: center;
+}
+
+.qrspace{
+    padding-top: 10px;
+    height: 280px;
+    width: 280px;
+    background-color: #2C7DFA;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+h3{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0 16px;
+    text-align: center;
+}
+
+.scan, p{
+    text-align: center;
+    opacity: 80%;
+}
+
+.Created{
+    opacity: 42%;
+}
+
+
+
